@@ -34,6 +34,13 @@ or (if it doesnot work you can use)
 
 ./main
 ```
+Output Demo:
+-----------------
+![image](https://github.com/user-attachments/assets/bc8c5a63-f1e7-47f5-8345-43fd07ff88d8)
+![image](https://github.com/user-attachments/assets/16ef5073-1aef-43cf-a50c-c9372873b93f)
+![image](https://github.com/user-attachments/assets/7952b30f-6971-4db3-9bfd-56d64d1aa02c)
+![image](https://github.com/user-attachments/assets/78f0f944-2f36-4824-a6f7-9a14731fbbb5)
+
 
 ## 📄 Features
 - Generic types using `void*`
